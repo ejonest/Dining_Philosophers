@@ -1,4 +1,4 @@
-# Dinning_Philosophers
+# Dining_Philosophers
 Solution to dining philosophers problem using the 4 seats solution in C
 
 This was part of an assignment for a course in operation systems CPSC-351 at Cal State University Fullerton. The majority of this program was written by myself but some parts were added/provided by Professor William McCarthy.
